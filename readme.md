@@ -10,7 +10,7 @@ getting passwords and filtering output.
 
 ## Requirements
 
-Install 1Password's CLI client `op` first.
+Install [1Password's CLI client `op`](https://support.1password.com/command-line/) first.
 
 ## Usage
 
